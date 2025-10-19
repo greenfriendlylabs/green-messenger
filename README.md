@@ -133,7 +133,7 @@ For issues, questions, or suggestions:
 
 If you encounter any issues or have questions:
 - 🐛 [Report bugs](https://github.com/greenfriendlylabs/green-messenger/issues)
-- 💡 [Request features](https://github.com/greenfriendlylabs/green-messenger)
+- 💡 [Request features](https://github.com/greenfriendlylabs/green-messenger/issues)
 - ⭐ Star the repo if you find it useful!
 
 ## ☕ Support the Project
