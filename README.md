@@ -8,9 +8,10 @@ Greenfriendly Messenger is a decentralized messaging platform that leverages the
 
 ![G7BRAfEXkAAEtBf](https://github.com/user-attachments/assets/bfb1b71d-99fd-437f-aff6-c26c072b6058)
 
-<img style="width:25%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/cd9e7e9d-1679-4797-81b0-fe6dd7ba6646" />
-<img style="width:25%; height:auto;" src="https://github.com/user-attachments/assets/7b941bce-9b45-4874-93e2-22245a434e07" />
-<img style="width:25%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/821fccbd-fca7-4df3-9b6c-2a3364630166" />
+<img style="width:33%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/cd9e7e9d-1679-4797-81b0-fe6dd7ba6646" />
+<img style="width:33%; height:auto;" src="https://github.com/user-attachments/assets/7b941bce-9b45-4874-93e2-22245a434e07" />
+<img style="width:33%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/97162254-f23a-41b8-9b1b-19478a1fe76f" />
+
 
 ## Key Features
 
