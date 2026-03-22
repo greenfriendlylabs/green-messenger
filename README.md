@@ -111,18 +111,6 @@ To unlock premium features, you need **1 or more GFT tokens**.
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## Roadmap
-
-- [ ] Mobile responsive design improvements
-- [ ] Group messaging support
-- [ ] File attachments (images, documents)
-- [ ] Custom themes for GFT holders
-- [ ] Message read receipts
-- [ ] Typing indicators
-- [ ] Push notifications
-- [ ] Multi-wallet support
-- [ ] Enhanced premium features for GFT holders
-
 ## Support
 
 For issues, questions, or suggestions:
